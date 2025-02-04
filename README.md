@@ -2,4 +2,7 @@
 7 Segment Displays is a small MicroPython library for displaying numbers 0 to 9, letters (A, b, C, d, E, F, H, L) on a 7 segment common cathode display 🚀 💻  
 
 <hr>
+
 build with ❤️ for developers
+📬 gaetansg26@gmail.com
+
